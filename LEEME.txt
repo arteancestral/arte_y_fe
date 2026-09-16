@@ -1,0 +1,8 @@
+ARTE & FE PESEBRES — V9
+
+1. Abra index.html para ver la portada.
+2. El botón Galería y el botón visual “Ver galería” abren galeria.html.
+3. La galería contiene 9 fotografías editadas, cada una con descripción individual.
+4. Al hacer clic en una fotografía se abre una página individual sin música y con botón “Volver a la galería”.
+5. La portada y la galería mantienen el reproductor superior con Jingle Bells y el enlace al certificado de licencia de Pixabay.
+6. Mantenga toda la carpeta junta; no mueva archivos internos por separado.
